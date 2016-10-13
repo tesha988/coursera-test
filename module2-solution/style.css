@@ -104,7 +104,7 @@ p.text {
   .mobile {
     width: 100%;
   }
-  .content2, .content3 {
-  margin-top: 15px;
+  .content1, .content2, .content3 {
+  margin: 25px;
   }
 }
