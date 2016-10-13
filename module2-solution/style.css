@@ -88,11 +88,23 @@ p.text {
     width: 100%;
     clear: both;
   }
+  .content1 {
+  margin: 0px 33px 0px 33px;
+  }
+  .content2 {
+  margin-right: 33px;
+  }
+  .content3 {
+  margin-top: 20px;
+  }
 }
 
 /********** Mobile **********/
 @media (max-width: 767px) {
   .mobile {
     width: 100%;
+  }
+  .content2, .content3 {
+  margin-top: 15px;
   }
 }
