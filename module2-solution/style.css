@@ -14,11 +14,15 @@ h1 {
   color: #1a3300;
 }
 
-.content {
+.content1, .content2, .content3 {
   background-color: #80ff00;
   height: 260px;
   border: 1px solid black;
   overflow-y: auto;
+}
+
+.content1 {
+  margin-left: 35px;
 }
 
 p.titl1, p.titl2, p.titl3 {
