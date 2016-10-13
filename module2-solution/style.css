@@ -5,6 +5,7 @@
 }
 
 h1 {
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
   font-size: 3em;
   text-align: center;
   margin-top: 20px;
@@ -26,6 +27,7 @@ p.titl1, p.titl2, p.titl3 {
   width: 100px;
   text-align: center;
   color: #e6ffcc;
+  font-family: "Comic Sans MS", cursive, sans-serif;
   font-size: 1.25em;
   border-style: solid;
   border-color: black;
