@@ -22,7 +22,15 @@ h1 {
 }
 
 .content1 {
-  margin-left: 35px;
+  margin-left: 25px;
+}
+.content2 {
+  margin-right: 25px;
+  margin-left: 25px;
+}
+
+.content3 {
+  margin-right: 25px;
 }
 
 p.titl1, p.titl2, p.titl3 {
