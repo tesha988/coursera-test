@@ -16,7 +16,6 @@ h1 {
 
 .content {
   background-color: #80ff00;
-  margin: 25px;
   height: 260px;
   border: 1px solid black;
   overflow-y: auto;
